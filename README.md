@@ -32,6 +32,5 @@ Here are some ideas to get you started:
 <li><b>Bachelor of Technology</b> in Information Technology : Anna University, India (2017 - 2021)</li></ul>
 
 <h2>Publications:</h2>
-<ul><li><a href="https://www.researchgate.net/profile/Research-Scholar-Ii/publication/378940573_GUIDANCE_SYSTEM_FOR_RETALIATORY_VIOLENCE_IN_ROCHESTER_USING_NETWORK_ANALYSIS/links/65f28509c05fd2688007c1ff/GUIDANCE-SYSTEM-FOR-RETALIATORY-VIOLENCE-IN-ROCHESTER-USING-NETWORK-ANALYSIS.pdf">Guidance System for Retaliatory Violence in Rochester using Network Analysis</a></li>
 <li><a href="https://link.springer.com/chapter/10.1007/978-981-16-1089-9_48">A Novel Diagnosis System for Parkinson’s Disease Using K-means Clustering and Decision Tree</a></li>
 <li><a href="https://link.springer.com/chapter/10.1007/978-981-19-6634-7_65">Machine Learning-Based Approach for Airfare Forecasting</a></li></ul>
