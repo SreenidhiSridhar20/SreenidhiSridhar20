@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2>Sreenidhi Sridhar &nbsp; <a href="https://www.linkedin.com/in/sreenidhisridhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="mailto:sreenidhisridhar20@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a></h2>
+<h2>Sreenidhi Sridhar &nbsp; <a href="https://www.linkedin.com/in/sreenidhisridhar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp; <a href="mailto:sreenidhisridhar2025@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a></h2>
 <i>Open to Work</i><br>
 &nbsp;
 <p>This is my GitHub profile! I'm passionate about data analysis and visualization, with hands-on experience in leveraging data to derive actionable insights. My repository showcases various projects where I've applied data analysis techniques to solve real-world problems.</p>
